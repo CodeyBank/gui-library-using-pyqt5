@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version ="1.0">
+    <qresource>
+        <file>C:\Users\VIRGIN\PycharmProjects\my_python_projects\library_project\icons\book-icon.png</file>
+        <file>C:\Users\VIRGIN\PycharmProjects\my_python_projects\library_project\icons\settings.png</file>
+        <file>C:\Users\VIRGIN\PycharmProjects\my_python_projects\library_project\icons\themes.png</file>
+        <file>C:\Users\VIRGIN\PycharmProjects\my_python_projects\library_project\icons\today.png</file>
+        <file>C:\Users\VIRGIN\PycharmProjects\my_python_projects\library_project\icons\users.png</file>
+        <file>C:\Users\VIRGIN\PycharmProjects\my_python_projects\library_project\icons\search.png</file>
+        <file>C:\Users\VIRGIN\PycharmProjects\my_python_projects\library_project\icons\drop-down.png</file>
+    </qresource>
+</RCC>
